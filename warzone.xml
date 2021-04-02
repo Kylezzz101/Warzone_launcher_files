@@ -1,0 +1,22 @@
+<Warzone>
+    <!-- Here you have to set the top bar link addresses -->
+    <Links>
+        <websitelink>https://discord.gg/DTz699EaNr</websitelink>
+        <discordlink>https://discord.gg/DTz699EaNr</discordlink>
+        <forumlink>https://discord.gg/DTz699EaNr</forumlink>
+        <accountlink>https://discord.gg/DTz699EaNr</accountlink>
+        <supportlink>https://discord.gg/DTz699EaNr</supportlink>
+        <launcherlink>http://warzoneboa.ddns.net/warzone_launcher_v3/Warzone%20Launcher%20v3.exe</launcherlink>
+    </Links>
+    <!-- Here you have to set world server ports for realm1 and realm2 -->
+    <Realms>
+        <realm1 worldserverport="8086"/>
+        <realm2 worldserverport="8085"/>
+    </Realms>
+    <!-- Here you have to set the server realmlist -->
+    <Realmlist>warzoneboa.ddns.net</Realmlist>
+    <!-- Here you add the patches links for realm1 and realm2 -->
+    <Patches>
+        <patch realm="2">http://warzoneboa.ddns.net/warzone_launcher_v3/patches/Patch-C.MPQ</patch>
+    </Patches>
+</Warzone>
